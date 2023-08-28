@@ -3,7 +3,7 @@ CS3200 Introduction
 
 # Organization of Programming Languages: Introduction
 
-[Syllabus](https://github.com/drchangliu/cs3200f22)
+[Syllabus](.)
 
 ## Which programming languages are the most popular?
 
