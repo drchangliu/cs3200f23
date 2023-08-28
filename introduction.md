@@ -44,7 +44,7 @@ https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-intro
 ### So, what are the differences among these languages? 
 
 - Syntax? Microsoft and Unity3D have shown that difference in syntax can be resolved through a common language engine. Syntax becomes a matter of preference.
-- Language mechanisms (higher-level abstractions)? Couldn't we design a language to have them all? Could n't we have a full-spectrum language? Sometimes, less is more. E.g. Rust actually removes certain ways of coding. Another example: ["Goto considered harmful"](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
+- Language mechanisms (higher-level abstractions)? Couldn't we design a language to have them all? Couldn't we have a full-spectrum language? Sometimes, less is more. E.g. Rust actually removes certain ways of coding. Another example: ["Goto considered harmful"](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
 - Fundamental programming paradigm (imperative versus functional versus logical). Consider the more recent [Probabilistic Programming Languages](https://en.wikipedia.org/wiki/Probabilistic_programming) (e.g. [Stan](https://mc-stan.org/)), where the fundamental type is not an integer or a byte, but a probabilistic distribution. Imagine what a Machine Learning programming language would be. Imagine what an AI programming language (or a human programming language) would be.
 - Cultural/historical? E.g. "rec" keyword in OCaml for recursive functions, whereas in C/C++/Java, any function can be a recursive function.
 
