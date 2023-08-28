@@ -18,9 +18,9 @@ but also: Some mathematical maturity (at the level of "I've seen and done a few 
 
 |                       |         Details      |
 |-----------------------|----------------------|
-| **Lecture**           | MWF 3:05-4:00pm in Porter 100 |
+| **Lecture**           | TuTh 3:30-4:50pm in Porter 103 |
 | **Instructor**        | Chang Liu (liuc@ohio.edu) |
-| **Office Hours**      | Liu: MW 4-5pm (BR202) |
+| **Office Hours**      | WF 8:40-9:30am (Stocker 321c) |
 
 ## Textbook
 
@@ -35,7 +35,7 @@ Additional readings:
 
 ## Course Structure
 
-We'll meet TuTh from 3:30-4:50pm at Porter 103. Attendance in class is required.
+Attendance in class is required.
 Homework consists of programming assignments and Blackboard quizzes. We'll have both a traditional in-class midterm exam and a final exam.
 
 ### Grade Breakdown
