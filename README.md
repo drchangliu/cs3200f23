@@ -24,11 +24,12 @@ but also: Some mathematical maturity (at the level of "I've seen and done a few 
 
 No required textbook. Readings listed below are used throughout the semester.
 
-[Book: Michael R. Clarkson et al., "OCaml Programming: Correct + Efficient + Beautiful"](https://cs3110.github.io/textbook/cover.html) (from Cornell) ([PDF](https://cs3110.github.io/textbook/ocaml_programming.pdf)), Aug 2023.
+[Book: Michael R. Clarkson et al. OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) (from Cornell) ([PDF](https://cs3110.github.io/textbook/ocaml_programming.pdf)), Aug 2023.
 
 Additional readings:
 
-"Real World OCaml - Functional Programming for the Masses", https://dev.realworldocaml.org/index.html
+Minsky, Yaron, Anil Madhavapeddy, and Jason Hickey. [Real World OCaml: Functional programming for the masses](https://dev.realworldocaml.org/index.html). O'Reilly, 2013.
+
 
 
 ## Course Structure
