@@ -88,8 +88,8 @@ Unless otherwise noted, homeworks are due Saturdays by 11:59 p.m. Late homework 
 You may discuss the homework with other students in the class, but only after you've attempted the problems on your own first. If you do discuss the homework problems with others, write the names of the students you spoke with, along with a brief summary of what you discussed, in a README comment at the top of each submission. Example:
 
 ```
-(* README Alex Bagnall, Assn #1 
-I worked with X and Y. We swapped tips regarding the use of pattern-matching in Rust. *)
+(* README John Smith, PA #1 
+I worked with X and Y. We swapped tips regarding the use of pattern-matching in OCaml. *)
 ```
 
 However, **under no circumstances are you permitted to share or directly copy code or other written homework material**, except with course instructors. The code and proofs you turn in must be your own. Remember: homework is there to give **you** practice in the new ideas and techniques covered by the course; it does you no good if you don't engage!
