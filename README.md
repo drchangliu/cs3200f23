@@ -80,7 +80,7 @@ Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**,
 |------------|----------------|---------------------------------------|
 | ***You***  | All collaboration allowed | High-level discussion (of the problems, not your code!) allowed but only after you've started the assignment; must be documented in README as described below |
 
-Unless otherwise noted, homeworks are due Saturdays by 11:59 p.m. Late homework assignments will be penalized according to the following formula:
+Late homework assignments will be penalized according to the following formula:
 
 * Up to 24 hours late: no deduction, for a max 2 late homeworks per student across the entire semester
 * Homeworks later than 24 hours, or from students who have already turned in 2 late homeworks, will receive 0 points.
