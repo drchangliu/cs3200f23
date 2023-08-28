@@ -1,5 +1,3 @@
-Fall 2023 CS3200 Syllabus
-
 # CS3200 Organization of Programming Languages
 
 ## Fall 2023
