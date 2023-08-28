@@ -72,9 +72,9 @@ https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-intro
 
 ### How languages influence each other
 
-- list - first class in Lisp
+- list - first class citizen in Lisp
 - lamda function - from functional languages to Python and other imperative languages
-- pattern matching using regular expressions
+- pattern matching using regular expressions - first appeared in shell scripting languages for convenience and because its support first shows up in command-line commands
 - perl - output formating
 
 ## Why the focus of functional programming in this class?
