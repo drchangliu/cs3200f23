@@ -1,10 +1,10 @@
 # Starting with OCaml
 
-Follow the instructions
-[here](https://cs3110.github.io/textbook/chapters/preface/install.html)
+Follow the instructions in
+[the OCaml book](https://cs3110.github.io/textbook/chapters/preface/install.html)
 to install OCaml on your system. If VSCode isn't your cup of tea,
 don't worry; a high-quality OCaml plugin is likely available for your
-favorite editor as well (e.g., merlin for emacs and vim).
+favorite editor as well (e.g., merlin for emacs and vim). The following is just a list of reminders for what needs to be done. Follow the book for the actual commands.
 
 ```
 sudo apt install ocaml opam
