@@ -63,4 +63,17 @@ let _ = print_int(x) in
   print_string("from CS " ^ string_of_int x ^ "\n")
 ```  
 
+
+```
+let rec fibonacci n =
+  if n < 2 then n else fibonacci (n - 1) + fibonacci (n - 2) in
+
+let fib = fibonacci 10 in
+
+let _ = print_int(fib) in
+  print_string("\n")  
+```
+
+
+
 (A quick online tool to test this code is: https://www.onlinegdb.com/.)
