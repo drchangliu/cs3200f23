@@ -11,7 +11,7 @@ sudo apt install ocaml opam
 opam init
 opam install dune
 # Be sure to create an opam switch
-opam switch create cs3200 ocaml-base-compiler.4.14.0
+opam switch create cs3200 ocaml-base-compiler.5.0.0
 dune test
 ```
 
