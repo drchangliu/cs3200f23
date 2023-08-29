@@ -8,6 +8,7 @@ favorite editor as well (e.g., merlin for emacs and vim).
 
 ```
 sudo apt install ocaml opam
+opam init
 opam install dune
 # Be sure to create an opam switch
 opam switch create cs3200 ocaml-base-compiler.4.14.0
