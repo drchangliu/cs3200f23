@@ -13,6 +13,8 @@ opam install dune
 # Be sure to create an opam switch
 opam switch create cs3200 ocaml-base-compiler.5.0.0
 dune test
+
+eval $(opam env)
 ```
 
 ## Install QCheck and Alcotest
