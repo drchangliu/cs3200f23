@@ -9,9 +9,9 @@ favorite editor as well (e.g., merlin for emacs and vim). The following is just 
 ```
 sudo apt install ocaml opam
 opam init
-opam install dune
 # Be sure to create an opam switch
 opam switch create cs3200 ocaml-base-compiler.5.0.0
+opam install dune
 dune test
 
 eval $(opam env)
