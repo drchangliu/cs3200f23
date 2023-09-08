@@ -52,8 +52,9 @@ Blackboard will be used to report grades and to post lecture notes and reading m
 
 The schedule is subject to revision.
 
+[Assignment due dates. ](https://blackboard.ohio.edu/ultra/calendar)
+
 [![Relative Week](https://img.shields.io/endpoint?url=https://relative-week-ksraqzy7na-uk.a.run.app?genesisDate=08-27-2023)](https://img.shields.io/endpoint?url=https://relative-week-ksraqzy7na-uk.a.run.app?genesisDate=08-27-2023)
-[Assignment due dates](https://blackboard.ohio.edu/ultra/calendar)
 
 
 | Week                        | Topic                                 | Reading                        | Assignment |
