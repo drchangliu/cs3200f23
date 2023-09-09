@@ -11,7 +11,7 @@ sudo apt install ocaml opam
 opam init
 # Be sure to create an opam switch
 opam switch create cs3200 ocaml-base-compiler.5.0.0
-opam install dune
+opam install dune utop
 dune test
 
 eval $(opam env)
