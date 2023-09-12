@@ -28,8 +28,8 @@ No required textbook. Readings listed below are used throughout the semester.
 
 Additional readings:
 
-Minsky, Yaron, Anil Madhavapeddy, and Jason Hickey. [Real World OCaml: Functional programming for the masses](https://dev.realworldocaml.org/index.html). O'Reilly, 2013.
-Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz. [Programming and Programming Languages (PAPL)](https://papl.cs.brown.edu/2017/), 2017.
+* Minsky, Yaron, Anil Madhavapeddy, and Jason Hickey. [Real World OCaml: Functional programming for the masses](https://dev.realworldocaml.org/index.html). O'Reilly, 2013.
+* Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz. [Programming and Programming Languages (PAPL)](https://papl.cs.brown.edu/2017/), 2017.
 
 
 
