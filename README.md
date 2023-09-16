@@ -77,7 +77,8 @@ The schedule is subject to revision.
 | Week 15 (4 Dec) | Final review | Final review | |
 | Exam (14 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Thursday, December 14, at 12:20 pm - 2:20pm| |  |
 
-Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays.
+Additional examples and in-class notes are updated throughout the semester on the [examples](https://github.com/OU-CS3560/examples/tree/main/ocaml) repo.
+Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard.
 
 ## Homework and Collaboration Policies
 
