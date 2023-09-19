@@ -26,10 +26,11 @@ No required textbook. Readings listed below are used throughout the semester.
 
 [Book: Michael R. Clarkson et al. OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) (from Cornell) ([PDF](https://cs3110.github.io/textbook/ocaml_programming.pdf)), Aug 2023.
 
-Additional readings:
+Additional readings and technical materials:
 
 * Minsky, Yaron, Anil Madhavapeddy, and Jason Hickey. [Real World OCaml: Functional programming for the masses](https://dev.realworldocaml.org/index.html). O'Reilly, 2013.
 * Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz. [Programming and Programming Languages (PAPL)](https://papl.cs.brown.edu/2017/), 2017.
+* OCaml API documentation: https://v2.ocaml.org/api/
 
 
 
