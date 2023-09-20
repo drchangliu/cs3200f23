@@ -18,7 +18,7 @@ but also: Some mathematical maturity (at the level of "I've seen and done a few 
 |-----------------------|----------------------|
 | **Lecture**           | TuTh 3:30-4:50pm in Porter 103 |
 | **Instructor**        | Chang Liu (liuc@ohio.edu) |
-| **Office Hours**      | WF 8:40-9:30am (Stocker 321c) |
+| **Office Hours**      | Thursdays 10:00-11:40am (Stocker 321c) |
 
 ## Textbook
 
