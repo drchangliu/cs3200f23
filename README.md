@@ -56,7 +56,7 @@ Blackboard will be used to report grades and to post lecture notes and reading m
 The schedule is subject to revision. [Assignment due dates. ](https://blackboard.ohio.edu/ultra/calendar)    [![Relative Week](https://img.shields.io/endpoint?url=https://relative-week-ksraqzy7na-uk.a.run.app?genesisDate=08-27-2023)](https://img.shields.io/endpoint?url=https://relative-week-ksraqzy7na-uk.a.run.app?genesisDate=08-27-2023)
 
 
-| Week                        | Topic                                 | Reading                        | Assignment |
+| Week                        | Topic                                 | Reading                        | Assessment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
 | Week 1 (28 Aug) | [Intro](introduction.md), OCaml [examples](https://github.com/OU-CS3560/examples/tree/main/ocaml) | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro/intro.html) | Complete the ["HelloWorld" exercise](starting-ocaml.md) - no credit; nothing to turn in.|
 | Week 2  | Functional programming basics; Tail recursion | [OCaml 2](https://cs3110.github.io/textbook/chapters/basics/intro.html), Supplementary: [Programming in Standard ML 2.1, 2.2](http://www.cs.cmu.edu/~rwh/isml/book.pdf#chapter.2) | PA0: Intro. to OCaml  | 
