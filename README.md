@@ -60,16 +60,16 @@ The schedule is subject to revision. [Assignment due dates. ](https://blackboard
 |-----------------------------|---------------------------------------|--------------------------------|------------|
 | Week 1 (28 Aug) | [Intro](introduction.md), OCaml [examples](https://github.com/OU-CS3560/examples/tree/main/ocaml) | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro/intro.html) | Complete the ["HelloWorld" exercise](starting-ocaml.md) - no credit; nothing to turn in.|
 | Week 2  | Functional programming basics; Tail recursion | [OCaml 2](https://cs3110.github.io/textbook/chapters/basics/intro.html), Supplementary: [Programming in Standard ML 2.1, 2.2](http://www.cs.cmu.edu/~rwh/isml/book.pdf#chapter.2) | PA0: Intro. to OCaml  | 
-| Week 3  | Data and Types; Structural recursion | [OCaml 3.1](https://cs3110.github.io/textbook/chapters/data/lists.html), [3.2](https://cs3110.github.io/textbook/chapters/data/variants.html), [3.4](https://cs3110.github.io/textbook/chapters/data/records_tuples.html), [3.7](https://cs3110.github.io/textbook/chapters/data/options.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | PA1: Lists <br> Q0  |
-| Week 4 EECS Retreat. No Thursday 9/21 class.  | Natural numbers | [OCaml 3.9](https://cs3110.github.io/textbook/chapters/data/algebraic_data_types.html), [3.11](https://cs3110.github.io/textbook/chapters/data/trees.html), [3.12](https://cs3110.github.io/textbook/chapters/data/nats.html), Supplementary: Natural Numbers (on BB) | Q1  |
-| Week 5 (25 Sep) | Higher-order programming (map, filter, fold, pipeline) | [OCaml 4](https://cs3110.github.io/textbook/chapters/hop/intro.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | PA2: Natural Numbers |
-| Week 6 | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Q2  |
-| Week 7  | Modular programming  | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | [PA3: BSTs](https://blackboard.ohio.edu/)  |
-| Week 8  | Option vs. Exceptions; Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam  |
+| Week 3  | Data and Types; Structural recursion | [OCaml 3.1](https://cs3110.github.io/textbook/chapters/data/lists.html), [3.2](https://cs3110.github.io/textbook/chapters/data/variants.html), [3.4](https://cs3110.github.io/textbook/chapters/data/records_tuples.html), [3.7](https://cs3110.github.io/textbook/chapters/data/options.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | PA1: Lists <br>   |
+| Week 4 EECS Retreat. No Thursday 9/21 class.  | Natural numbers | [OCaml 3.9](https://cs3110.github.io/textbook/chapters/data/algebraic_data_types.html), [3.11](https://cs3110.github.io/textbook/chapters/data/trees.html), [3.12](https://cs3110.github.io/textbook/chapters/data/nats.html), Supplementary: Natural Numbers (on BB) | Q0  |
+| Week 5 (25 Sep) | Higher-order programming (map, filter, fold, pipeline) | [OCaml 4](https://cs3110.github.io/textbook/chapters/hop/intro.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | Q1 |
+| Week 6 | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | PA2: Natural Numbers  |
+| Week 7  | Modular programming  | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Midterm Exam |
+| Week 8  | Option vs. Exceptions; Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | [PA3: BSTs](https://blackboard.ohio.edu/)   |
 | Week 9  | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | PA4: Memoization |
-| Week 10 (30 Oct) | Memoization | OCaml 8 | Q3  |
-| Week 11 | Big Integer (Num), Promises |  OCaml 8.6 Promises | PA4:Scheme0 Parser  |
-| Week 12 | Monad, Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html) |  |
+| Week 10 (30 Oct) | Memoization | OCaml 8 |   |
+| Week 11 | Big Integer (Num), Promises |  OCaml 8.6 Promises | Q3 |
+| Week 12 | Monad, Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html) | PA4:Scheme0 Parser  |
 | Week 13 | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | PA5: Scheme1, PA6: Typed Scheme1 (Bonus) |
 | Week 14 (27 Nov)/ Thanksgiving | Desugaring, small step vs. big step semantics.  | [OCaml 9.3](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | |
 | Week 15 (4 Dec) | Final review | Final review | |
