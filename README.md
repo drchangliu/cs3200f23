@@ -72,7 +72,7 @@ The schedule is subject to revision. [Assignment due dates. ](https://blackboard
 | Week 12 | Monad, Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html) | PA4:Scheme0 Parser  |
 | Week 13 | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | PA5: Scheme1 |
 | Week 14 (27 Nov)/ Thanksgiving | Desugaring, small step vs. big step semantics.  | [OCaml 9.3](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | PA6: Typed Scheme1 (Bonus) |
-| Week 15 (4 Dec) | Final review | Final review | |
+| Week 15 (4 Dec) | Final review | Final Part 1 | |
 | Exam (14 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Thursday, December 14, at 12:20 pm - 2:20pm| |  |
 
 Additional examples and in-class notes are updated throughout the semester on the [examples](https://github.com/OU-CS3560/examples/tree/main/ocaml) repo.
